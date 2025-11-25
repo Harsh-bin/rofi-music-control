@@ -43,6 +43,18 @@ chmod +x ~/.config/rofi/nowplaying/nowplaying.sh
 ```
 **All set. Now, you need to add keybindings or other controls to launch the `nowplaying.sh`.**
 
+---
+
+**Also check this hyprlock-nowplaying based on same script**
+
+![hyprlock-nowplaying](https://github.com/Harsh-bin/hyprlock-nowplaying)
+
+| | | |
+|-|-|-|
+| **nothing is playing clean look** ![](https://github.com/user-attachments/assets/099d92e8-b285-4494-b602-086ce95e799b)| **spotify** ![](https://github.com/user-attachments/assets/6f4dbbe0-86c7-4976-96a8-5feb06466651) | **local player** ![](https://github.com/user-attachments/assets/7c98c6c5-0992-44ba-8a4f-734740add1a7) |
+
+
+
 ## Author ✍️
 
 Created by [Harsh-bin](https://github.com/Harsh-bin)
